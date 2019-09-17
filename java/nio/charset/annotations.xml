@@ -1,0 +1,5 @@
+<root>
+    <item name='java.nio.charset.CodingErrorAction'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
